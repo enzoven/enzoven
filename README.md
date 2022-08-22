@@ -5,9 +5,11 @@
 </div>
    
   
-  <div style="display: inline_block"><br>
-  <img align="center" alt="enzoven-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="enzoven-lua" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
+<div style="display: inline_block"><br>
+<img align="center" alt="enzoven-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center" alt="enzoven-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg">
+          
+          
          
 </div>
 
