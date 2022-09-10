@@ -1,4 +1,4 @@
-### Eu me chamo Enzo e sou estudante do 3º ano do Ensino Médio na escola ETEC Joaquim Ferreira Do Amaral, minha principal linguagem de programação é a .Lua, utilizada na plataforma Roblox onde desenvolvo o meu jogo: Roblox Viruses: Ressurections
+### Eu me chamo Enzo e sou estudante do 3º ano do Ensino Médio na escola ETEC Joaquim Ferreira Do Amaral, sou proprietário e desenvolvedor na Ro-Viruses Inc. e minha principal linguagem de programação é a .Lua, utilizada na plataforma Roblox onde desenvolvo o meu jogo: Roblox Viruses: Ressurections
 #
 
 <div align="center">
