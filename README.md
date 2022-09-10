@@ -1,3 +1,6 @@
+## Eu me chamo Enzo e sou estudante do 3º ano do Ensino Médio na escola ETEC Joaquim Ferreira Do Amaral
+## Principal linguagem de programação: .lua
+
 <div align="center">
   <a href="https://github.com/enzoven">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=enzoven&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
