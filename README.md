@@ -1,5 +1,4 @@
-## Eu me chamo Enzo e sou estudante do 3º ano do Ensino Médio na escola ETEC Joaquim Ferreira Do Amaral
-## Principal linguagem de programação: .lua
+### Eu me chamo Enzo e sou estudante do 3º ano do Ensino Médio na escola ETEC Joaquim Ferreira Do Amaral, minha principal linguagem de programação é a .Lua, utilizada na plataforma Roblox onde desenvolvo o meu jogo: Roblox Viruses: Ressurections
 
 <div align="center">
   <a href="https://github.com/enzoven">
