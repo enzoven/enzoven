@@ -1,18 +1,22 @@
 ### Olá viajante, você encontrou o meu perfil 👋
+#
 
-Eu me chamo Enzo e sou estudante do 3º ano do Ensino Médio na escola ETEC Joaquim Ferreira Do Amaral
+👦🏻 - Me chamo enzo e tenho 17 anos de idade
 
-Proprietário e desenvolvedor na Ro-Viruses Inc. 
+🏫 - Estudante do 3º ano do Ensino Médio na escola ETEC Joaquim Ferreira Do Amaral
 
-Programo em .Lua, linguagem utilizada na plataforma Roblox onde desenvolvo o meu jogo: Roblox Viruses: Ressurections
+🧪 - Proprietário e desenvolvedor na Ro-Viruses Inc.
 
-Dá uma olhadinha aqui: https://www.roblox.com/games/7488934257/Roblox-Viruses-Resurrections
+💻 - Programo em .Lua, linguagem utilizada na plataforma Roblox onde desenvolvo o meu jogo: Roblox Viruses: Ressurections
+
+#
+### Dá uma olhadinha aqui: https://www.roblox.com/games/7488934257/Roblox-Viruses-Resurrections
 #
 
 <div align="center">
   <a href="https://github.com/enzoven">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=enzoven&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoven&layout=compact&langs_count=7&theme=gotham&bg_color=#071a16"/>
+  <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=enzoven&theme=tokyonight"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=enzoven&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
 </div>
 
 #
