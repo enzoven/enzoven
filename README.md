@@ -15,8 +15,8 @@
 
 <div align="center">
   <a href="https://github.com/enzoven">
-  <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=enzoven&theme=tokyonight"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=enzoven&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+  <img height="180cm" src="http://github-readme-streak-stats.herokuapp.com?user=enzoven&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=enzoven&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
 </div>
 
 #
