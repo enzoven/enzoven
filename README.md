@@ -1,4 +1,4 @@
-### Olá viajante, você encontrou o meu perfil 👋
+### Olá viajante, você encontrou o meu perfil escolar & pessoal 👋
 #
 
 👦🏻 - Me chamo enzo e tenho 17 anos de idade
