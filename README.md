@@ -1,7 +1,7 @@
 ### Olá viajante, você encontrou o meu perfil escolar & pessoal 👋
 #
 
-👦🏻 - Me chamo enzo e tenho 17 anos de idade
+👦🏻 - Me chamo Enzo e tenho 17 anos de idade
 
 🧪 - Proprietário e desenvolvedor na Biolab Inc.
 
