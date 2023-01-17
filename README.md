@@ -3,9 +3,7 @@
 
 👦🏻 - Me chamo enzo e tenho 17 anos de idade
 
-🏫 - Estudante do 3º ano do Ensino Médio na escola ETEC Joaquim Ferreira Do Amaral
-
-🧪 - Proprietário e desenvolvedor na Ro-Viruses Inc.
+🧪 - Proprietário e desenvolvedor na Biolab Inc.
 
 💻 - Programo em .Lua, linguagem utilizada na plataforma Roblox onde desenvolvo o meu jogo: Roblox Viruses: Ressurections
 
