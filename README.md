@@ -5,8 +5,6 @@
 
 🧪 - Proprietário e desenvolvedor na Biolab Inc.
 
-💻 - Programo em .Lua, linguagem utilizada na plataforma Roblox onde desenvolvo o meu jogo: Roblox Viruses: Ressurections
-
 #
 ### Dá uma olhadinha aqui: https://www.roblox.com/games/7488934257/Roblox-Viruses-Resurrections
 #
