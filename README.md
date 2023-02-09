@@ -7,9 +7,9 @@
 
  </div>
  
- # A arte
+ # Linguagens de programação
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,php,lua" />
+    <img src="https://skillicons.dev/icons?i=html,cs,css,php,lua" />
   </a>
 </p>
