@@ -1,14 +1,3 @@
-### Olá viajante, você encontrou o meu perfil escolar & pessoal 👋
-#
-
-👦🏻 - Me chamo Enzo e tenho 17 anos de idade
-
-🧪 - Proprietário e desenvolvedor na Biolab Inc.
-
-#
-### Dá uma olhadinha aqui: https://www.roblox.com/games/7488934257/Roblox-Viruses-Resurrections
-#
-
 <div align="center">
   <a href="https://github.com/enzoven">
   <img height="180cm" src="http://github-readme-streak-stats.herokuapp.com?user=enzoven&theme=tokyonight"/>
