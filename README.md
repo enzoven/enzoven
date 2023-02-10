@@ -7,9 +7,5 @@
 
  </div>
  
- # Linguagens de programação
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,cs,css,php,lua" />
-  </a>
-</p>
+ # 
+ [![My Skills](https://skillicons.dev/icons?i=html,cs,css,php,lua)](https://skillicons.dev)
