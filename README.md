@@ -8,4 +8,4 @@
  </div>
  
  # 
- [![My Skills](https://skillicons.dev/icons?i=html,cs,css,php,lua)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=cs,html,css,php,lua)](https://skillicons.dev)
