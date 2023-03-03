@@ -10,3 +10,6 @@
  
 ## 💡Minhas skills
  [![My Skills](https://skillicons.dev/icons?i=cs,html,css,lua,php)](https://skillicons.dev)
+
+ ![Snake animation](https://github.com/enzoven/enzoven/blob/output/github-contribution-grid-snake.svg)
+  <br>
