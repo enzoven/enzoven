@@ -1,4 +1,4 @@
-# 📑 Sobre mim
+## 📑 Sobre mim
 
 - Meu nome é **Enzo** e eu tenho 17 anos 👦🏻
 - Estudo atualmente na **Faculdade de Tecnologia de Jahu** 🏫
@@ -8,5 +8,5 @@
 
  </div>
  
-# 💡Minhas skills
+## 💡Minhas skills
  [![My Skills](https://skillicons.dev/icons?i=cs,html,css,php,lua)](https://skillicons.dev)
