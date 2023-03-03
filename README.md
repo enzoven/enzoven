@@ -8,6 +8,12 @@
 
  </div>
  
+ <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{enzoven}/count.svg" /></p> 
+<br>
+</div>
+ 
 ## 💡Minhas skills
  [![My Skills](https://skillicons.dev/icons?i=cs,html,css,lua,php)](https://skillicons.dev)
 
