@@ -10,8 +10,11 @@
 
  </div>
  
-## 💡Minhas skills
+## 💡 Minhas skills
  [![My Skills](https://skillicons.dev/icons?i=cs,html,css,lua,php)](https://skillicons.dev)
+ 
+## 📲 Social
+<a href="https://www.instagram.com/enzo.paggiaro" target="_blanked"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
  ![Snake animation](https://github.com/enzoven/enzoven/blob/output/github-contribution-grid-snake.svg)
   <br>
