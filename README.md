@@ -11,7 +11,7 @@
 ## 💡 Minhas skills
  [![My Skills](https://skillicons.dev/icons?i=cs,html,css,lua,php)](https://skillicons.dev)
  
-## 📲 Social
+## 👾 Social
 <a href="https://www.instagram.com/enzo.paggiaro" target="_blanked"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://discord.gg/jyYs5scbv5" target="_blanked"><img src="https://img.shields.io/badge/PIZY Group-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
