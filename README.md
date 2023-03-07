@@ -13,7 +13,7 @@
  
 ## 👾 Social
 <a href="https://www.instagram.com/enzo.paggiaro" target="_blanked"><img src="https://skillicons.dev/icons?i=instagram" height=40></a>
-<a href="www.linkedin.com/in/enzoven/" target="_blanked"><img src="https://skillicons.dev/icons?i=linkedin" height=40></a>
+<a href="https://www.linkedin.com/in/enzoven/" target="_blanked"><img src="https://skillicons.dev/icons?i=linkedin" height=40></a>
 <a href="https://discord.gg/jyYs5scbv5" target="_blanked"><img src="https://skillicons.dev/icons?i=discord" height=40></a>
 
 ![Snake animation](https://github.com/enzoven/enzoven/blob/output/github-contribution-grid-snake.svg)
