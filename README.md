@@ -9,7 +9,7 @@
  </div>
  
 ## 💡 Minhas skills
-<img src="https://skillicons.dev/icons?i=cs,html,css,lua,php" height=40></a>
+<img src="https://skillicons.dev/icons?i=cs,html,css,lua" height=40></a>
  
 ## 👾 Social
 <a href="https://www.instagram.com/enzo.paggiaro" target="_blanked"><img src="https://skillicons.dev/icons?i=instagram" height=40></a>
